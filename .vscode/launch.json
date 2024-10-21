@@ -1,0 +1,210 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "6/K",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/6/K",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "6/Final/A",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/6/Final/A",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "6/Final/B",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/6/Final/B",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "7/B",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/B",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "7/C",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/C",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/F",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/F",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/H",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/H",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/I",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/I",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/L",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/L",
+            "console": "integratedTerminal",
+        } 
+        ,
+        {
+            "name": "7/K",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/K",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/J",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/J",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/Final/A",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/Final/A",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "7/Final/B",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/7/Final/B",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/A",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/A",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/E",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/E",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/B",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/B",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/K",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/K",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/G",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/G",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/L",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/L",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/H",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/H",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/J",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/J",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/Final/A",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/Final/A",
+            "console": "integratedTerminal",
+        }
+        ,
+        {
+            "name": "8/Final/B",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceRoot}/8/Final/B",
+            "console": "integratedTerminal",
+        }
+    ]
+}
